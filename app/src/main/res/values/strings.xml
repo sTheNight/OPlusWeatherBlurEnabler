@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OPlusWeatherBlurEnabler</string>
+    <string name="module_description">开启 ColorOS 天气的顶栏模糊效果</string>
+</resources>
